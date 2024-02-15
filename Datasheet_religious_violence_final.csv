@@ -1,0 +1,196 @@
+Country,Literacy Rate,Education Index,Employment,Inequality,gdp(pc),corruption index,press freedom index,government restriction index,terrorism index,HDI,Major Faith,Social Hostilities Index
+Afghanistan,37.30%,0.415,36.71%,,,24,39.75,Very High,8.822,0.498,Islam,Very High
+Albania,98.10%,0.745,52.35%,33.2,"$6,643",36,57.86,,0,0.785,Islam,
+Algeria,81.40%,0.664,35.90%,27.6,"$4,274",33,45.74,High,4.083,0.754,Islam,High
+Andorra,100%,0.714,,,,,75.05,,,0.858,Christianity,
+Angola,71.10%,0.498,69.03%,51.3,"$2,999",33,48.3,Moderate,0.158,0.581,Christianity,Moderate
+Antigua and Barbuda,99%,0.676,,,"$18,745",,,,,0.78,Christianity,
+Argentina,99%,0.816,56.31%,42.9,"$13,904",38,73.36,,2.875,0.825,Christianity,
+Armenia,99.80%,0.749,54.828,29.9,"$7,014",46,70.61,Moderate,0,0.755,Christianity,Moderate
+Australia,99.00%,0.929,63.96,34.4,"$64,003",75,78.24,,1.83,0.939,Christianity,Moderate
+Austria,98%,0.852,58.761,30.8,"$52,732",71,77.3,Moderate,2.677,0.908,Christianity,
+Azerbaijan,99.80%,0.709,62.657,26.6,"$7,600",23,39.93,High,0,0.757,Islam,Moderate
+The Bahamas,96%,0.726,64.989,,"$31,458",64,,,,0.807,Christianity,
+Bahrain,97.50%,0.758,70.678,,"$30,152",44,30.59,Moderate,0.826,0.846,Islam,Moderate
+Bangladesh,74.66%,0.508,55.993,32.4,"$2,688",25,35.31,Moderate,3.827,0.608,Islam,Very High
+Barbados,99.60%,0.777,55.968,,"$20,019",65,,,,0.8,Christianity,
+Belarus,99.90%,0.838,60.439,25.3,"$7,634",39,37.17,High,0,0.808,Christianity,Moderate
+Belgium,99%,0.893,78.92,27.2,"$49,640",73,76.47,Moderate,2.763,0.916,Christianity,
+Belize,83.00%,0.705,58.599,53.3,"$6,968",,70.49,,,0.708,Christianity,
+Benin,42.40%,0.471,61.553,47.8,"$1,303",43,52.44,,4.84,0.515,Christianity,
+Bhutan,66.60%,0.445,59.644,37.4,"$3,266.36",68,59.25,Moderate,0,0.612,Buddhism,
+Bolivia,92.50%,0.687,66.275,41.6,"$3,523",31,51.09,,0,0.693,Christianity,
+Bosnia and Herzegovina,98.50%,0.718,42.657,33,"$7,585",34,65.43,,0,0.768,Christianity,Moderate
+Botswana,88.50%,0.659,51.526,53.3,"$7,738",60,64.61,,0,0.717,Christianity,
+Brazil,93.20%,0.686,57.161,53.4,"$8,918",38,58.67,,0.599,0.759,Christianity,
+Brunei,97.20%,0.704,59.557,,"$37,152",,44.2,Very High,,0.853,Islam,Moderate
+Bulgaria,98.40%,0.805,53.821,41.3,"$13,129",43,62.98,High,0,0.813,Christianity,Moderate
+Burkina Faso,39.30%,0.286,62.161,35.3,$833,42,67.64,,8.564,0.423,Islam,Moderate
+Burundi,68.40%,0.424,78.90%,38.6,$238,17,52.14,,4.051,0.417,Christianity,
+Cabo Verde,86.80%,0.555,48.514,,"$3,903",60,75.72,,,0.654,Christianity,
+Cambodia,80.50%,0.487,75.40%,,"$1,787",24,42.02,Moderate,0,0.582,Buddhism,
+Cameroon,77.10%,0.547,68.899,46.6,"$1,588",26,45.58,,7.347,0.556,Christianity,
+Canada,99.00%,0.899,61.562,33.3,"$55,646",74,83.53,,3.275,0.926,Christianity,
+Central African Republic,37.40%,0.341,66.092,56.2,$427,24,57.56,Moderate,3.194,0.367,Christianity,Moderate
+Chad,22.30%,0.298,58.721,43.3,$717,19,53.73,Moderate,6.168,0.404,Islam,High
+Chile,96.30%,0.8,54.402,44.4,"$15,355",67,60.09,,6.619,0.84,Christianity,
+China,96.80%,0.644,63.634,38.5,"$12,598",45,22.97,Very High,0,0.752,Buddhism,
+Colombia,95.60%,0.676,56.515,51.3,"$6,630",39,45.23,,6.697,0.747,Christianity,Moderate
+Comoros,58.80%,0.473,40.271,45.3,"$1,485",19,62.25,Moderate,,0.503,Islam,High
+"Congo, Democratic Republic",77.00%,0.496,62.929,42.1,$586,23,48.55,,6.872,0.457,Christianity,
+"Congo, Republic of the",80.30%,0.526,52.859,48.9,"$2,448",21,,,0,0.606,Christianity,High
+Costa Rica,97.90%,0.719,54.358,48.2,"$13,199",54,80.2,,0,0.794,Christianity,
+Côte d’Ivoire,89.90%,0.424,63.728,,"$2,486",37,,,3.747,0.492,Christianity,High
+Croatia,99.30%,0.791,48.64,29.7,"$17,608",50,71.95,,0,0.831,Christianity,Moderate
+Cuba,99.80%,0.78,53.815,,"9,499",45,29,High,0,0.777,Christianity,
+Cyprus,99.10%,0.808,59.688,32.7,"$22,724",52,68.62,,1.392,0.869,Christianity,
+Czech Republic,99.00%,0.893,58.715,25,"$27,723",56,83.58,,0,0.888,Christianity,
+Denmark,99.00%,0.92,60.575,28.2,"$67,220",90,89.48,Moderate,,0.929,Christianity,Moderate
+Djibouti,,0.309,22.621,41.6,,30,35.87,,3.8,0.476,Islam,Moderate
+Dominica,92.00%,0.613,,,"$8,415",55,,,,0.715,Christianity,
+Dominican Republic,93.80%,0.643,59.888,41.9,"$10,121",32,71.88,,0,0.736,Christianity,
+East Timor (Timor-Leste),68.10%,0.505,63.699,,"$2,358",42,,,0,0.625,Christianity,High
+Ecuador,93.60%,0.697,63.752,45.7,"$6,391",36,60.51,,2.198,0.752,Christianity,
+Egypt,71.20%,0.604,38.913,31.5,"$4,295",30,33.37,Very High,6.632,0.696,Islam,High
+El Salvador,89.10%,0.58,56.62,38.8,"$5,127",33,51.36,,0,0.674,Christianity,
+Equatorial Guinea,95.30%,0.443,50.249,,"$7,053",17,50.35,,0,0.591,Christianity,
+Eritrea,76.60%,0.281,72.46,,$643.79,22,27.86,Very High,0,0.44,Christianity,
+Estonia,99.80%,0.869,61.331,30.3,"$28,732",74,85.31,,0,0.871,Christianity,
+Eswatini,88.40%,0.528,38.17,54.6,"$4,040",30,52.66,,1.058,0.588,Christianity,
+Ethiopia,51.80%,0.327,77.30%,35,"$1,028",38,47.7,Moderate,3.044,0.463,Christianity,High
+Fiji,99.10%,0.785,54.235,36.7,"$5,317",53,59.27,,,0.741,Christianity,Moderate
+Finland,100.00%,0.905,55.818,27.3,"$50,684",87,87.94,,0,0.92,Christianity,
+France,99.00%,0.84,52.076,32.4,"$43,061",72,78.72,Moderate,4.419,0.901,Christianity,Moderate
+Gabon,84.70%,0.628,37.423,38,"$8,820",29,58.12,,0,0.702,Christianity,
+The Gambia,50.80%,0.372,58.545,35.9,$840,34,71.06,,0,0.46,Islam,
+Georgia,99.60%,0.845,56.561,35.9,"$6,571",56,61.69,Moderate,0,0.78,Christianity,High
+Germany,99.00%,0.94,59.694,31.9,"$48,845",79,81.91,Moderate,4.242,0.936,Christianity,Moderate
+Ghana,79.00%,0.558,66.168,43.5,"$2,176",43,65.93,,0,0.592,Christianity,High
+Greece,97.90%,0.838,45.368,32.9,"$21,095",52,55.2,High,4.793,0.87,Christianity,High
+Grenada,98.60%,0.758,,,"$10,016",52,,,,0.772,Christianity,
+Guatemala,80.80%,0.514,57.158,48.3,"$5,324",24,48.12,,0,0.65,Christianity,
+Guinea,39.60%,0.339,49.357,33.7,"$1,532",25,59.51,,0,0.459,Islam,Moderate
+Guinea-Bissau,59.90%,0.392,53.918,50.7,$776,21,,,0,0.455,Islam,
+Guyana,88.50%,0.596,43.913,45.1,"$18,990",40,67.5,,0,0.654,Christianity,
+Haiti,61.70%,0.433,55.847,41.1,"$1,748",17,57.38,,0,0.498,Christianity,
+Honduras,88.50%,0.502,58.754,48.2,"$3,040",23,32.65,,0,0.617,Christianity,
+Hungary,99.10%,0.815,57.663,29.6,"$17,938",42,62.96,,0,0.838,Christianity,
+Iceland,99.00%,0.912,72.46,26.1,"$74,663",74,83.19,,0,0.935,Christianity,
+India,74.40%,0.556,45.859,35.7,"$2,389",40,36.62,High,7.175,0.64,Hinduism,Very High
+Indonesia,96.00%,0.622,64.246,38.2,"$4,788",34,54.83,High,5.502,0.694,Islam,Very High
+Iran,85.50%,0.741,37.912,42,"$4,388",25,24.81,Very High,5.688,0.798,Islam,High
+Iraq,85.60%,0.534,34.091,29.5,"$5,937",23,32.94,High,8.139,0.685,Islam,Very High
+Ireland,99.00%,0.918,62.678,31.4,"$105,362",77,89.91,,0.291,0.938,Christianity,
+Israel,97.80%,0.874,61.412,39,"$57,758",63,57.57,High,5.489,0.903,Judaism,
+Italy,99.20%,0.791,45.438,35.9,"$34,053",56,72.05,,3.29,0.88,Christianity,Moderate
+Jamaica,88.70%,0.69,65.198,45.5,"$6,047",44,75.89,,0,0.732,Christianity,
+Japan,99.00%,0.848,60.689,32.9,"$34,135",73,63.95,,2.398,0.909,Buddhism,
+Jordan,98.20%,0.711,32.59,33.7,"$4,205",47,42.79,High,2.033,0.735,Islam,High
+Kazakhstan,99.80%,0.814,66.299,27.8,"$11,373",36,45.87,High,0,0.8,Islam,Moderate
+Kenya,81.50%,0.551,70.271,40.8,"$2,099",32,51.15,Moderate,6.163,0.59,Christianity,High
+Kiribati,,0.62,,37,"$1,702",,,,,0.612,Christianity,
+"Korea, North",100.00%,,72.66,,$800,,21.72,,0,,Atheism,
+"Korea, South",98.00%,0.862,62.184,31.4,"$34,998",63,,,,0.903,Christianity,
+Kuwait,96.50%,0.62,69.721,,"$43,233",42,38.84,High,0,0.803,Islam,Moderate
+Kyrgyzstan,99.60%,0.735,56.744,29.7,"$1,649",27,49.91,Moderate,0,0.672,Islam,High
+Laos,84.70%,0.484,57.303,38.8,"$2,088",31,36.66,High,0,0.601,Buddhism,
+Latvia,99.90%,0.866,57.156,35.1,"$22,238",59,83.27,Moderate,0,0.847,Christianity,
+Lebanon,95.10%,0.637,40.94,31.8,"$4,136",24,50.46,,3.4,0.757,Islam,High
+Lesotho,79.40%,0.502,52.729,44.9,"$1,107",37,64.29,,0,0.52,Christianity,
+Liberia,48.30%,0.434,73.809,35.3,$755,26,64.34,,0,0.435,Christianity,High
+Libya,91.00%,0.616,37.654,,"$6,716",17,40.22,High,4.73,0.706,Islam,Moderate
+Liechtenstein,100.00%,0.827,,,"$157,754",,84.47,,0.508,0.916,Christianity,
+Lithuania,99.80%,0.879,59.425,35.7,"$25,576",62,86.79,,,0.858,Christianity,
+Luxembourg,100.00%,0.792,58.65,35.4,"$127,046",77,81.98,,,0.904,Christianity,
+Madagascar,76.70%,0.498,84.10%,42.6,$505,26,56.66,,0,0.519,Christianity,
+Malawi,62.10%,0.451,63.837,44.7,$645,34,60.34,,0,0.477,Christianity,
+Malaysia,95.00%,0.719,63.498,41.1,"$11,972",47,62.83,Very High,1.357,0.802,Islam,
+Maldives,97.70%,0.56,60.406,31.3,"$11,818",40,56.93,Very High,,0.717,Islam,Moderate
+Mali,35.50%,0.293,65.639,33,$833,28,52.29,,8.412,0.427,Islam,
+Malta,94.50%,0.818,61.735,28.7,"$33,313",51,59.76,,,0.878,Christianity,
+Marshall Islands,98.30%,0.723,,,"$6,728",,,,,0.708,Christianity,
+Mauritania,53.50%,0.389,36.303,32.6,"$2,191",30,59.45,High,0.291,0.52,Islam,
+Mauritius,91.30%,0.729,54.304,36.8,"$9,926",50,65.56,,0,0.79,Hinduism,
+Mexico,95.20%,0.678,58.967,45.4,"$11,091",31,47.98,Moderate,1.578,0.774,Christianity,High
+Micronesia,99.00%,0.59,,40.1,$792,,,,,0.627,Christianity,
+Moldova,99.40%,0.71,40.725,25.7,"$4,406",39,77.62,High,0,,Christianity,High
+Monaco,99.00%,,,,"$234,315",,,Moderate,,0.7,Christianity,
+Mongolia,99.20%,0.766,54.498,32.7,"$4,947",33,59.33,,0,0.741,Buddhism,Moderate
+Montenegro,98.80%,0.79,47.868,38.5,"$9,721",45,74.28,,0,0.814,Christianity,Moderate
+Morocco,73.80%,0.529,40.791,39.5,"$3,582",38,43.69,High,0.757,0.667,Islam,Moderate
+Mozambique,60.70%,0.385,75.418,54,$541,26,56.13,,7.33,0.437,Christianity,
+Myanmar (Burma),89.10%,0.443,59.26,30.7,"$1,096",23,28.26,Very High,7.977,0.578,Buddhism,High
+Namibia,91.50%,0.571,46.595,59.1,"$4,911",49,80.91,,0,0.647,Christianity,
+Nauru,95.00%,,,34.8,,,,,,,Christianity,
+Nepal,67.90%,0.502,35.597,32.8,"$1,337",34,57.89,Moderate,4.134,0.574,Hinduism,High
+Netherlands,99.00%,0.906,63.754,28.1,"$56,429",80,87,,2.12,0.931,Christianity,
+New Zealand,99.00%,0.917,68.632,,"$47,680",87,84.23,,3.776,,Christianity,
+Nicaragua,82.60%,0.558,62.374,46.2,"$2,255",19,37.09,,0,0.658,Christianity,
+Niger,35.10%,0.214,73.063,34.3,$533,32,66.84,,7.616,0.354,Islam,
+Nigeria,62.00%,0.483,55.476,35.1,"$2,184",24,49.56,Moderate,8.065,0.532,Christianity,High
+North Macedonia,98.40%,0.691,46.193,33,"$6,478",40,74.35,,0,0.757,Christianity,Moderate
+Norway,100.00%,0.915,63.484,27.6,"$106,594",84,95.18,,3.514,0.953,Christianity,
+Oman,95.70%,0.706,65.613,,"$25,057",44,37.87,High,0,0.821,Islam,
+Pakistan,58.00%,0.411,49.365,31.6,"$1,597",27,39.95,High,8.16,0.562,Islam,Very High
+Palau,96.60%,0.844,,,,,,,,0.798,Christianity,
+Palestine,95.00%,0.66,33.05,33.7,"$3,640",,37.86,Moderate,4.611,0.686,Islam,High
+Panama,95.70%,0.692,60.185,49.8,"$17,358",36,63.67,,0,0.789,Christianity,
+Papua New Guinea,64.20%,0.43,45.778,41.9,"$3,020",30,67.62,,0,0.544,Christianity,
+Paraguay,94.50%,0.631,66.181,45.7,"$6,153",28,55.96,,1.605,0.702,Christianity,
+Peru,94.50%,0.689,69.427,41.5,"$7,126",36,52.74,,3.856,0.75,Christianity,
+Philippines,96.30%,0.661,57.065,42.3,"$3,499",33,46.21,,6.328,0.699,Christianity,High
+Poland,99.80%,0.866,56.797,30.2,"$17,266",55,67.66,,0,0.865,Christianity,
+Portugal,96.10%,0.759,55.308,33.5,"$24,530",62,84.6,,0,0.847,Christianity,
+Qatar,93.50%,0.698,88.20%,,"$88,046",58,55.28,Moderate,0,0.856,Islam,
+Romania,98.80%,0.762,49.27,35.8,"$15,324",46,69.04,Moderate,0.682,0.811,Christianity,High
+Russia,99.70%,0.832,59.226,37.5,"$15,482",28,34.77,High,3.799,0.816,Christianity,High
+Rwanda,73.20%,0.45,47.76,43.7,$966,51,46.58,,0.826,0.524,Christianity,
+Saint Kitts and Nevis,97.00%,0.68,,,"$20,177",,,,,0.778,Christianity,
+Saint Lucia,90.00%,0.676,57.422,51.2,"$11,481",55,,,,0.747,Christianity,
+Saint Vincent and the Grenadines,96.00%,0.655,52.01,,"$9,125",60,,,,0.723,Christianity,
+Samoa,99.10%,0.692,48.252,38.7,"$3,743",,82.15,,,0.713,Christianity,
+San Marino,99.90%,,,,,,,,,,Christianity,
+Sao Tome and Principe,92.80%,0.557,45.53,56.3,"$2,404",45,,,,0.589,Christianity,
+Saudi Arabia,97.60%,0.787,55.697,,"$30,436",51,32.43,Very High,2.387,0.853,Islam,Very High
+Senegal,51.90%,0.368,49.515,40.3,"$1,599",43,55.82,,1.108,0.505,Islam,
+Serbia,99.50%,0.778,51.116,36.2,"$8,794",36,59.16,Moderate,0,0.787,Christianity,High
+Seychelles,95.90%,0.727,,32.1,"$14,829",70,75.71,,,0.797,Christianity,
+Sierra Leone,43.20%,0.39,51.393,35.7,$461,34,62.55,,0,0.419,Islam,
+Singapore,97.50%,0.832,68.345,,"$78,115",83,47.88,High,0,0.932,Buddhism,
+Slovakia,100.00%,0.831,57.989,,"$20,461",53,83.22,Moderate,2.784,0.855,Christianity,
+Slovenia,99.70%,0.886,56.766,24.6,"$29,303",56,70.59,,,,Christianity,
+Solomon Islands,77.00%,0.469,82.30%,37.1,"$2,203",,,,,0.546,Christianity,
+Somalia,39.00%,,27.157,36.8,$446.98,12,44.24,High,8.463,,Islam,Very High
+South Africa,95.00%,0.708,39.874,63,"$6,776",43,78.6,,0.826,0.699,Christianity,Moderate
+Spain,98.60%,0.824,50.264,34.7,"$29,385",60,75.37,,2.712,0.891,Christianity,
+Sri Lanka,92.30%,0.749,47.49,39.3,"$3,408",36,45.85,Moderate,4.839,0.77,Buddhism,Very High
+Sudan,60.70%,0.328,39.63,34.2,"$1,102",22,40.83,High,0,0.502,Islam,Very High
+"Sudan, South",34.50%,0.297,61.726,44.1,"$1,071",13,50.62,,0,0.388,Christianity,
+Suriname,94.40%,0.636,50.435,57.9,"$5,858",40,70.62,,,0.72,Christianity,
+Sweden,99.00%,0.904,60.044,30,"$55,543",,88.15,,2.307,0.933,Christianity,
+Switzerland,99.00%,0.897,64.608,33.1,"$92,410",82,84.4,,2.205,0.944,Christianity,Moderate
+Syria,86.40%,0.412,40.051,,$533.39,13,27.22,High,8.161,0.536,Islam,High
+Taiwan,98.70%,,56.858,,"$33,907",68,75.54,,0,,Buddhism,
+Tajikistan,99.80%,0.659,37.972,34,"$1,054",24,39.06,High,3.438,0.65,Islam,
+Tanzania,77.90%,0.441,80.317,40.5,"$1,156",38,44.02,Moderate,4.065,0.538,Christianity,Moderate
+Thailand,93.80%,0.661,65.859,34.9,"$6,909",36,55.24,Moderate,5.43,0.755,Buddhism,Moderate
+Togo,66.50%,0.506,55.665,43.1,$918,30,63.06,,4.915,0.503,Christianity,
+Tonga,99.40%,0.77,51.716,37.6,"$4,426",,71.29,,,0.726,Christianity,
+Trinidad and Tobago,99.00%,0.722,52.531,40.3,"$18,222",42,76.54,,0,0.784,Christianity,
+Tunisia,81.80%,0.659,38.361,32.8,"$3,777",40,50.11,High,3.989,0.735,Islam,Moderate
+Turkey,96.70%,0.689,47.279,41.9,"$10,616",36,33.97,High,5.6,0.791,Islam,High
+Turkmenistan,99.70%,0.626,43.912,40.8,"$7,344.65",19,25.82,High,0,0.706,Islam,
+Tuvalu,99.00%,,,39.1,"$5,335",,,,,,Christianity,
+Uganda,76.50%,0.525,66.761,42.8,$964,26,46.08,Moderate,3.599,0.516,Christianity,
+Ukraine,99.80%,0.794,49.269,26.6,"$4,043",33,61.19,Moderate,1.535,0.751,Christianity,Moderate
+United Arab Emirates,97.60%,0.738,79.90%,26,"$53,758",67,42.99,Moderate,1.241,0.863,Islam,
+United Kingdom,99.00%,0.914,60.118,35.1,"$45,485",73,78.51,,3.84,0.922,Christianity,Moderate
+United States,86.00%,0.903,59.656,41.4,"$75,269",69,71.22,,4.799,0.924,Christianity,Moderate
+Uruguay,98.80%,0.733,58.48,39.7,"$20,795",74,70.33,,0.826,0.804,Christianity,
+Uzbekistan,100.00%,0.718,53.19,35.3,"$2,322",31,45.73,Very High,1.731,0.71,Islam,Moderate
+Vanuatu,87.50%,0.529,67.678,37.6,"$3,010",48,,,,0.603,Christianity,
+Venezuela,97.10%,0.741,49.934,44.8,"$2,624.41",17,36.99,Moderate,3.409,0.761,Christianity,
+Vietnam,95.80%,0.626,72.012,35.7,"$4,164",42,24.58,High,0.227,0.694,Buddhism,Moderate
+Yemen,70.10%,0.349,33.127,36.7,$701.71,16,32.78,High,5.616,0.452,Islam,High
+Zambia,86.70%,0.58,56.943,57.1,"$1,488",33,59.41,,0,0.588,Christianity,
+Zimbabwe,86.50%,0.558,60.812,50.3,"$1,267",23,48.17,Moderate,0,0.535,Christianity,Moderate

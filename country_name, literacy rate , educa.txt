@@ -1,0 +1,27 @@
+features:country_name, literacy rate , education quality index , enployment , economic gap , gdp_per_capita ,  gdp , corruption index , 
+press freedom index , human development index , religious freedom index ,government restriction Index, terrorism index, major religion, 
+form of government 
+
+label : social hostilities index
+
+
+country_name - Done!
+Employment - https://ilostat.ilo.org/topics/employment/ - Done!
+Literacy Rate - https://en.wikipedia.org/wiki/List_of_countries_by_literacy_rate - Done!
+Education Quality Index - https://rankedex.com/society-rankings/education-index - Done !
+Human Development Index - https://rankedex.com/society-rankings/countries-by-human-development-index - Done!
+Economic Gap - https://worldpopulationreview.com/country-rankings/gini-coefficient-by-country - Done!
+Gdp per capita - https://www.worldometers.info/gdp/gdp-per-capita/ - Done!
+gdp - https://www.worldometers.info/gdp/gdp-by-country/ - Done!
+corruption index - https://www.transparency.org/en/cpi/2022 - Done!
+press freedom index - https://rsf.org/en/index - Done!
+religious freedom index -  !!! Not Done !!! Not taken !
+government restriction index - in pew pdf
+terrorism index - https://www.visionofhumanity.org/wp-content/uploads/2023/03/GTI-2023-web-170423.pdf, https://wisevoter.com/country-rankings/religion-by-country/ - Done!
+Major Religion - https://en.wikipedia.org/wiki/Religions_by_country - Done!
+form of government -https://en.wikipedia.org/wiki/List_of_countries_by_system_of_government - Done!
+
+
+social hostilities index - in pdf of pew . Done!
+
+
